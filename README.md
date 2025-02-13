@@ -21,7 +21,7 @@ I showcase my best work in my **pinned repositories** – feel free to explore t
 
 ## 📬 Let's Connect!  
 📩 Email: [belascusebi006@gmail.com](mailto:belascusebi006@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/SebastianBelascu]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/sebastian-belascu-71baa92a5/))  
+💼 LinkedIn: [linkedin.com/in/SebastianBelascu](https://www.linkedin.com/in/sebastian-belascu-71baa92a5/)  
 💻 GitHub: [github.com/SebastianBelascu](https://github.com/SebastianBelascu)  
 
 ---
