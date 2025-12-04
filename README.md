@@ -1,7 +1,7 @@
 # 🚀 Hey there! I'm Sebastian Belascu
 
 ## 🌍 About Me  
-I'm a **Web enthusiasts** with a strong passion for artificial intelligence. I’m a first-year student at the Faculty of Automation and Computer Science in Cluj-Napoca, driven by a passion for continuous learning. I enjoy expanding my skill set by exploring new technologies and solving complex problems.
+I'm a **Web enthusiasts** with a strong passion for artificial intelligence. I’m a second-year student at the Faculty of Automation and Computer Science in Cluj-Napoca, driven by a passion for continuous learning. I enjoy expanding my skill set by exploring new technologies and solving complex problems.
 
 - 🛠️ Experienced in **Next.js**, **React**, **JavaScript**, **C** and **Python**  
 - 🚀 Combining **web development** & **data-driven insights** to build impactful projects  
